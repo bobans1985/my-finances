@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+  padding: 100px;
+  color: #000000;
+  background: #CCCCCC;
+  font-size: 10pt;
+  font-family: "Verdana";}
+  
+.content {
+  width: 600px;
+  margin: 0px auto;
+  border: 1px solid #999999;
+  background: #EEEEEE;
+  padding: 5px;
+  box-shadow: 0px 0px 10px #000000;}
+  
+.content ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;}
+  
+.content ul li {
+  padding: 3px;}
+  
+.content ul li span {
+  float: right;}
+  
+.content form input,
+.content form textarea,
+.content form select {
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid #333333;}
